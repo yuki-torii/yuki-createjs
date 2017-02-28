@@ -1,0 +1,22 @@
+{
+  "name": "yuki-createjs",
+  "version": "0.0.0",
+  "description": "⛩  yuki-createjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "."
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuki-torii/yuki-createjs.git"
+  },
+  "author": "limichange<limichange@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuki-torii/yuki-createjs/issues"
+  },
+  "homepage": "https://github.com/yuki-torii/yuki-createjs#readme"
+}
