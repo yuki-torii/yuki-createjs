@@ -1,6 +1,6 @@
 {
   "name": "yuki-createjs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "⛩ Install createJS by npm",
   "main": "index.js",
   "scripts": {
