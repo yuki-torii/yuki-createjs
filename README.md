@@ -1,14 +1,15 @@
 # yuki-createjs
 ⛩  yuki-createjs
 
-## Usage
 
+## Install
 ```bash
 $ yarn add yuki-createjs
 # or
 $ npm install yuki-createjs --save
 ```
 
+## Usage
 ```js
 import 'yuki-createjs'
 // or
