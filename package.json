@@ -1,7 +1,7 @@
 {
   "name": "yuki-createjs",
   "version": "0.0.2",
-  "description": "⛩  yuki-createjs",
+  "description": "⛩ Install createJS by npm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
