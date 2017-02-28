@@ -1,11 +1,11 @@
 # yuki-createjs
-⛩  yuki-createjs
+⛩  Install createJS by npm
 
 ## Libs
- - easeljs-0.8.2.combined.js
- - preloadjs-0.6.2.combined.js
- - soundjs-0.6.2.combined.js
- - tweenjs-0.6.2.combined.js
+ - [easeljs-0.8.2.combined.js](https://github.com/CreateJS/EaselJS)
+ - [preloadjs-0.6.2.combined.js](https://github.com/CreateJS/PreloadJS)
+ - [soundjs-0.6.2.combined.js](https://github.com/CreateJS/SoundJS)
+ - [tweenjs-0.6.2.combined.js](https://github.com/CreateJS/TweenJS)
 
 ## Install
 ```bash
