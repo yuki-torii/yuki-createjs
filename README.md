@@ -15,5 +15,5 @@ import 'yuki-createjs'
 require('yuki-createjs')
 
 // then
-console.log(createjs) // <- Global
+console.log(createjs) // <- Global 🍻
 ```
